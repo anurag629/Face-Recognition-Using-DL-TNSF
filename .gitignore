@@ -1,6 +1,7 @@
 # Ignoring data directory
 *.tgz
-
+/lfw
+/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
